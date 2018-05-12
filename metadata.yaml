@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9008
     wikipedia: http://en.wikipedia.org/wiki/Norman_Duncan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24520#Harbor-Tales-Down-NorthWith-an-Appreciation-by-Wilfred-T.-Grenfell-M.D.
 gutenberg_issued: '2008-02-04'
 gutenberg_type: Text
 identifiers:
